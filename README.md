@@ -10,13 +10,12 @@ github repo
 Solving
 fatal: could not read Username for 'https://github.com':Device not configured
 
-4.1. Open a terminal 
-4.2. Go to the folder of your project using cd directory
-4.3. use the command git remote add origin https://github.com/angelhdz45/UnityGithubTest.git
-4.4. use the command git push -u origin master
-4.5. Github ask for your username and password
-4.6. Maybe there will be the next message, "This repository is configured for Git LFS but 'git-lfs' ....... and more
+1. Open a terminal 
+2. Go to the folder of your project using cd directory
+3. use the command git remote add origin https://github.com/angelhdz45/UnityGithubTest.git
+4. use the command git push -u origin master
+5. Github ask for your username and password
+6. Maybe there will be the next message, "This repository is configured for Git LFS but 'git-lfs' ....... and more
 (Ignore the message error and)
-4.7. Try again to push the commit inside Unity 
-
-5. Commit already publish to your github repo
+7. Try again to push the commit inside Unity 
+8. Commit already publish to your github repo
