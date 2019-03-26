@@ -77,7 +77,32 @@ ModelImporter:
     4300024: Connector_000
     7400000: Default Take
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Facemask
+    second: {fileID: 2100000, guid: 00788cafce96f4ec09f3684738c098a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helmet
+    second: {fileID: 2100000, guid: 9edb72178de254043b07ee9386774505, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Padding
+    second: {fileID: 2100000, guid: 2ad66ede1c3ad4659b46daa4314c831f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: ecd1b0715ce074324aee86555acbbb7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws
+    second: {fileID: 2100000, guid: 01f8d8ce075764a06a36ab7d536fbebd, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
